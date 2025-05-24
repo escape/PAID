@@ -2,6 +2,9 @@
 
 AI tools that foster better democratic societies using political science, history, philosophy and engineering principles. PAID (Private AI for Democracy) is a civic-minded, non-commercial project aimed at building a private AI lab infrastructure for democratic and ethical use. PAID is an open, federated infrastructure that individuals or local communities (chapters) can reuse and scale for their own civic needs. By keeping AI development privacy-focused and local, PAID strives to ensure AI technology serves the public interest – counterbalancing the centralized corporate control of AI that often reflects narrow interests instead of the general public good. This document outlines the repository’s structure and content, including technical setup guides and a dedicated space for the philosophical and civic motivation behind the project.
 
+```bash
+.
+
 PAID/                    - Root of the Private AI for Democracy repository
 ├─ README.md             - Introduction, vision, and usage of PAID (civic/ethical focus)
 ├─ LICENSE.md            - MIT License (open-source usage permissions)
