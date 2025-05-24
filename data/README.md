@@ -1,3 +1,3 @@
 # Data
 
-This folder contains datasets used for training AI models, political science research, and analysis.
+This folder contains example documents and datasets for testing the AI pipeline.
