@@ -1,18 +1,22 @@
 # PAID - Private AI for Democracy
 
-PAID (Private AI for Democracy) is a civic-minded, non-commercial project aimed at building a private AI lab infrastructure for democratic and ethical use. PAID is an open, federated infrastructure that individuals or local communities (chapters) can reuse and scale for their own civic needs. By keeping AI development privacy-focused and local, PAID strives to ensure AI technology serves the public interest – counterbalancing the centralized corporate control of AI that often reflects narrow interests instead of the general public good. This document outlines the repository’s structure and content, including technical setup guides and a dedicated space for the philosophical and civic motivation behind the project.
+PAID (Private AI for Democracy) is a civic-minded, non-commercial project aimed at building a private AI lab infrastructure for democratic and ethical use. PAID is an open, federated infrastructure that individuals or local communities (chapters) can reuse and scale for their own civic needs. 
+
+By keeping AI development privacy-focused and local, PAID strives to ensure AI technology serves the public interest – counterbalancing the centralized corporate control of AI that often reflects narrow interests instead of the general public good. This document outlines the repository’s structure and content, including technical setup guides and a dedicated space for the philosophical and civic motivation behind the project.
 
 *We want to allow users to easily deploy their own local democratic AI lab, confident in their data privacy, while also joining a broader conversation about technology’s role in society.*
 
 AI tools that foster better democratic societies using political science and engineering principles to contrast technofascism with anti-technofascism.
 
 ```bash
-
-Technofascism: the wiring-together of advanced surveillance, data extraction, and automated control with an exclusionary, ultra-nationalist power structure that treats dissent as a systems-engineering problem to be eliminated.
-
-Anti-technofascism: the deliberate design, governance, and ownership of technology so that power is distributed, rights are protected, and anyone can question, inspect, and re-route the entire stack.
-
+Technofascism:
 ```
+the wiring-together of advanced surveillance, data extraction, and automated control with an exclusionary, ultra-nationalist power structure that treats dissent as a systems-engineering problem to be eliminated.
+
+```bash
+Anti-technofascism: 
+```
+the deliberate design, governance, and ownership of technology so that power is distributed, rights are protected, and anyone can question, inspect, and re-route the entire stack.
 
 As data-hungry AI systems, ubiquitous sensors, and vertically integrated cloud empires consolidate, the political cost of “fixing things later” rises exponentially. Once surveillance architectures, predictive-policing models, and AI-centred supply chains are locked into authoritarian governance, reversing them becomes orders of magnitude harder. The task, therefore, is not merely to deploy technology more “ethically,” but to build structural firebreaks—legal, economic, infrastructural, and cultural—before technofascism hardens into an irreversible default.
 
