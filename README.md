@@ -4,9 +4,7 @@ PAID (Private AI for Democracy) is a civic-minded, non-commercial project aimed 
 
 By keeping AI development privacy-focused and local, PAID strives to ensure AI technology serves the public interest – counterbalancing the centralized corporate control of AI that often reflects narrow interests instead of the general public good. This document outlines the repository’s structure and content, including technical setup guides and a dedicated space for the philosophical and civic motivation behind the project.
 
-*We want to allow users to easily deploy their own local democratic AI lab, confident in their data privacy, while also joining a broader conversation about technology’s role in society.*
-
-AI tools that foster better democratic societies using political science and engineering principles to contrast technofascism with anti-technofascism.
+*We want to allow users to easily deploy their own local democratic AI lab, confident in their data privacy, while also joining a broader conversation about technology’s role in society.  We want to foster better democratic societies using political science and engineering principles to contrast technofascism with anti-technofascism*
 
 ```bash
 Technofascism:
