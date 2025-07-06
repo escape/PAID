@@ -9,12 +9,12 @@ By keeping AI development privacy-focused and local, PAID strives to ensure AI t
 ```bash
 Technofascism:
 ```
-the wiring-together of advanced surveillance, data extraction, and automated control with an exclusionary, ultra-nationalist power structure that treats dissent as a systems-engineering problem to be eliminated.
+the wiring-together of advanced surveillance, data extraction, and automated control with an exclusionary, ultra-nationalist power structure that treats *dissent as a systems-engineering problem* to be eliminated.
 
 ```bash
 Anti-technofascism: 
 ```
-the deliberate design, governance, and ownership of technology so that power is distributed, rights are protected, and anyone can question, inspect, and re-route the entire stack.
+the deliberate design, governance, and ownership of technology so that *power is distributed*, rights are protected, and anyone can question, inspect, and re-route the entire stack.
 
 As data-hungry AI systems, ubiquitous sensors, and vertically integrated cloud empires consolidate, the political cost of “fixing things later” rises exponentially. Once surveillance architectures, predictive-policing models, and AI-centred supply chains are locked into authoritarian governance, reversing them becomes orders of magnitude harder. The task, therefore, is not merely to deploy technology more “ethically,” but to build structural firebreaks—legal, economic, infrastructural, and cultural—before technofascism hardens into an irreversible default.
 
